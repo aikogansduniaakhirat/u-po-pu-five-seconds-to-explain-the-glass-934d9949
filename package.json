@@ -1,0 +1,11 @@
+{
+  "name": "u-po-pu-five-seconds-to-explain-the-glass-934d9949",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A program that writes one sentence in a house cat's voice, excusing the glass it just knocked off the table, to /output/entry.txt.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
